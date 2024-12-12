@@ -5,6 +5,7 @@ import Services from "./components/Services";
 import About from "./components/About";
 import Review from "./components/Review";
 import Contact from "./components/Contact";
+import Footer from "./components/Footer";
 function App() {
   return (
     <main className="overflow-x-hidden  antialiased text-neutral-800">
@@ -15,6 +16,7 @@ function App() {
       <About />
       <Review />
       <Contact />
+      <Footer />
     </main>
   );
 }
