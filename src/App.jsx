@@ -4,6 +4,7 @@ import Portfolio from "./components/Portfolio";
 import Services from "./components/Services";
 import About from "./components/About";
 import Review from "./components/Review";
+import Contact from "./components/Contact";
 function App() {
   return (
     <main className="overflow-x-hidden  antialiased text-neutral-800">
@@ -13,6 +14,7 @@ function App() {
       <Portfolio />
       <About />
       <Review />
+      <Contact />
     </main>
   );
 }
