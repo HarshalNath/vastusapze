@@ -6,7 +6,7 @@ const About = () => {
         About
       </h2>
       <img src={about} alt="" className="p-4 h-auto w-full" />
-      <p className="text-xl lg:text-2xl p-4 mt-12 tracking-wide leading-10 text-center">
+      <p className="text-xl lg:text-2xl p-4 mt-12 tracking-wide leading-10 text-center mb-12">
         VastuSpaze is a home renovation company that specializes in creating
         beautiful and functional living spaces. We offer a wide range of
         services, including interior design, construction, and landscaping. Our

@@ -3,6 +3,7 @@ import Navbar from "./components/Navbar";
 import Portfolio from "./components/Portfolio";
 import Services from "./components/Services";
 import About from "./components/About";
+import Review from "./components/Review";
 function App() {
   return (
     <main className="overflow-x-hidden  antialiased text-neutral-800">
@@ -11,6 +12,7 @@ function App() {
       <Services />
       <Portfolio />
       <About />
+      <Review />
     </main>
   );
 }
